@@ -10,7 +10,7 @@ function EntityCard() {
     <Container>
       <Row>
         <Col>
-            <Card style={{ width: '18rem' }}>
+            <Card style={{ width: '18rem', margin: '10px' }}>
                 <Card.Img variant="top" src={cardDefault} />
                 <Card.Body>
                 <Card.Title>Name</Card.Title>

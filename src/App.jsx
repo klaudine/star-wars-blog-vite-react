@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import EntityCard from "./components/EntityCard";
-import Navibar from "./components/Navbar";
+import Navibar from "./components/Navibar";
 
 
 

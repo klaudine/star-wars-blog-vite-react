@@ -14,6 +14,7 @@ function Navibar() {
             <Nav.Link href="#home">Home</Nav.Link>
             <Nav.Link href="#planets">Planets</Nav.Link>
             <Nav.Link href="#vehicles">Vehicles</Nav.Link>
+            <Nav.Link href="#favorites">Favorites</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
